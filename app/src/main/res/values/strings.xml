@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ExpenseMang</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab1">Daily</string>
+    <string name="tab2">Weekly</string>
+    <string name="tab3">Monthly</string>
+
+    <string-array name="Select_Categories">
+        <item>Food</item>
+        <item>Pets</item>
+        <item>Travel</item>
+        <item>Bill</item>
+        <item>Clothes</item>
+        <item>Misc</item>
+    </string-array>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
